@@ -1,0 +1,10 @@
+{
+  "description": "Browse Genzo Silver’s pure 925 sterling silver jewellery, explore product details, and place orders directly through WhatsApp with easy delivery across Pakistan.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
